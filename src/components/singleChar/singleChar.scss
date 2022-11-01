@@ -1,0 +1,19 @@
+.single-char {
+    margin-top: 40px;
+    display: flex;
+    gap: 50px;
+    &__img {
+        height: 300px;
+    }
+    &__description {
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+    &__name {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    &__comics {
+        margin: 30px 0;
+    }
+}
